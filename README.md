@@ -9,4 +9,8 @@ How to create your own phishing page for that, you must know about Html and CSS 
 
 live webpage - https://instagram-com-login-page.netlify.app/
 
+- Note : if you share this type of URLs/link with your victim kindly check that link should not open in google-chrome if he/she did, then he/she will get a warning sign ( Attackers on instagram-com-login-page.netlify.app may trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards).) either you can open this type of link in Microsoft Edge, Firefox, or Brave because their security level is low compared to google-chrome. 
 
+# Do not you this knowledge for any malicious activity for which we are not responsible, this knowledge is only for educational purposes 
+
+YOUTUBE LINK : https://youtu.be/NOJ2-32a96A
